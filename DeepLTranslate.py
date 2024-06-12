@@ -1,7 +1,7 @@
 import requests
 
 # Enter the DeepL API key here
-api_key = 'd4329109-647b-49c7-adae-da0baf47b3b4:fx'
+api_key = 'd4329109-647b-49c7-adae-da0baf47b3b4:fx' # this is free API version of DeepL
 
 # Specify the text and target languages you want to translate
 text = input('Enter text to translate: ')
